@@ -3,7 +3,7 @@
 This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 ## Table of contents
----
+
 - [Overview](#overview)
   - [Screenshot](#screenshot)
   - [Links](#links)
@@ -13,7 +13,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [Author](#author)
 
 ## Overview
----
+
 ### Screenshot
 - Desktop
 ![Desktop](./images/Desktop-Image.png)
@@ -21,12 +21,12 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - Mobile
 ![Mobile](./images/Mobile-Image.png)
 
----
+
 ## Links
 
 - Solution URL: [https://github.com/CBMcLaughlin/FM-QRComp](https://github.com/CBMcLaughlin/FM-QRComp)
 - Live Site URL: [https://cbmclaughlin.github.io/FM-QRComp/](https://cbmclaughlin.github.io/FM-QRComp/)
----
+
 ## My process
 
 ### Built with
@@ -35,11 +35,11 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - CSS custom properties
 - Flexbox
 - Mobile-first workflow
----
+
 ## Useful resources
 
 - [Flexbox Cheat Sheet](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - This served as a handy reference when setting up the flex containers.
----
+
 ## Author
 
 - Frontend Mentor - [@CBMcLaughlin](https://www.frontendmentor.io/profile/CBMcLaughlin)
