@@ -24,8 +24,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Links
 
-- Solution URL: [https://github.com/CBMcLaughlin/FM-QRComp](https://github.com/CBMcLaughlin/FM-QRComp)
-- Live Site URL: [https://cbmclaughlin.github.io/FM-QRComp/](https://cbmclaughlin.github.io/FM-QRComp/)
+- Solution URL: [Frontend Mentor Solutions Submission](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H/hub/qr-code-module-using-flexbox-d47XZASm84)
+- Live Site URL: [Github Live Site](https://cbmclaughlin.github.io/FM-QRComp/)
 
 ## My process
 
